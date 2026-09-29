@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+logs/
+temp/
+vendor/
+node_modules/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.vercel/
+

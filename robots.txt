@@ -1,0 +1,11 @@
+# Turbo Website Reviewer - PHP Script
+
+User-agent: *
+Disallow: /admin/
+Disallow: /core/
+Disallow: /resources/
+Disallow: /uploads/
+
+User-agent: *
+Allow: /
+Allow: /seo-analyzer
